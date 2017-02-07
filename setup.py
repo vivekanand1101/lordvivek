@@ -23,7 +23,7 @@ setup(
     url='https://lookupinthesky.heaven',
     keywords=['lord', 'hell', 'heaven', 'vivek'],
     classifiers=[
-        'Intended Audience :: Users',
+        'Intended Audience :: Developers',
         'Intended Audience :: Information Technology',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2 :: Only',

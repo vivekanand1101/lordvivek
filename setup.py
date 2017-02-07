@@ -9,7 +9,7 @@ except ImportError:
 
 
 def read(fname):
-    return open(fname).read()
+    return open(fname, 'r').read()
 
 
 setup(

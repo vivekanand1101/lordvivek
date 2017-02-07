@@ -1,4 +1,4 @@
 *.pyc
 dist/
 build/
-lordvivek.egg*
+lordvivek.egg-info/

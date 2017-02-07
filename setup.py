@@ -15,9 +15,8 @@ def read(fname):
 setup(
     name='lordvivek',
     packages=['lordvivek'],
-    version='1.2',
-    description='CLI tool for imports to Pagure',
-    long_description=read('Readme.md'),
+    version='1.3',
+    description='See lord in action',
     author='Vivek Anand',
     author_email='vivekanand1101@gmail.com',
     url='https://lookupinthesky.heaven',
@@ -36,6 +35,6 @@ setup(
         ],
     },
     include_package_data=True,
-    install_requires=read('requirements.txt'),
+    install_requires=['click'],
     zip_safe=False,
 )

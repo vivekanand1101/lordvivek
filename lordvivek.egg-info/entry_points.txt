@@ -1,3 +1,0 @@
-[console_scripts]
-god = lordvivek.app:app
-
